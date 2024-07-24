@@ -61,7 +61,7 @@ const AboutContent: React.FC = () => {
         <BurstBload />
       </motion.div>
       <motion.p variants={item} className="xl:text-2xl md:text-base text-sm xl:leading-9 text-medium">
-        Hello, I&apos;m Yoga! Passionate in frontend developer and committed to continuously expanding my knowledge and skills in frontend development, deliver clean code and learning new technology. 
+        Hello, I&apos;m Yoga! A Human Resource Management student who enjoys exploring the world of technology, particulary in the areas of frontend development, data analysis, data science, machine learning, and artificial intelligence (AI).
       </motion.p>
     </motion.div>
   );

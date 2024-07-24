@@ -52,7 +52,7 @@ const ProjectsContent: React.FC = () => {
           src={burstBloadTwo}
           decoding="async"
           loading="lazy"
-          alt="projects shape vickyadrii"
+          alt="projects shape yoga"
           className="absolute -z-10 top-0 -right-1 md:w-12 w-6"
         />
       </div>

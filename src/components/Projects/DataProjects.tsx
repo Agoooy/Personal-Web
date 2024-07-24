@@ -64,12 +64,12 @@ const DataProjects: React.FC = () => {
             src={img_url}
             // decoding="async"
             loading="lazy"
-            alt="projects vickyadrii"
+            alt="projects yoga"
           />
           <div className="flex flex-col gap-2.5 items-start">
             <img
               src={logo}
-              alt="logo project vickyadrii"
+              alt="logo project yoga"
               decoding="async"
               loading="lazy"
               className={`object-cover ${id === 0 ? "md:w-32 w-28" : id === 2 ? "w-8" : "md:w-14 w-2/12"}`}
@@ -83,7 +83,7 @@ const DataProjects: React.FC = () => {
                     src={data}
                     decoding="async"
                     loading="lazy"
-                    alt="tech stack logo vickyadrii"
+                    alt="tech stack logo yoga"
                     className="md:w-[26px] w-5 object-contain aspect-[4/3]"
                   />
                 ))}
