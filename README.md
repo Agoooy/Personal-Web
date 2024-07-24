@@ -1,24 +1,22 @@
-# Vicky Herdiansyah Adri - Personal Website
+<p align="center">
+<h1>My Personal Web</h1>
+<p/>
 
-## Technologies used:
+### Technologies used:
 [![My Skills](https://skillicons.dev/icons?i=astro,react,ts,tailwind)](https://skillicons.dev)
 
-## Getting Started
-
+### Getting Started
 Follow the steps below to run this project on your machine.
 
 ### Prerequisites
-
 Make sure you have installed the following prerequisites before proceeding:
-
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 
-## Installation
-
+### Installation
 1. Clone this repository to your local machine:
 
-   ```git clone https://github.com/vickyadrii/personal-website-2.0.git```
+   ```git clone https://github.com/Agoooy/Personal-Web.git```
 
 2. Navigate to the project directory:
 
@@ -30,7 +28,7 @@ Make sure you have installed the following prerequisites before proceeding:
    yarn
    ````
 
-## Usage
+### Usage
 
 Start the Express server:
 
@@ -42,7 +40,7 @@ Start the Express server:
 
 ## ----------------------------------------------------------------------------------------
 - Figma Design: [Click here](https://www.figma.com/file/ZdY2aK5cHCDoDVzfEVnLsu/Website-2.0)
-- Link demo: https://vickyadrii.my.id
+- Link demo: https://personal-agooy.vercel.app
 
 ## Built With
 - [Astro](https://astro.build/) - Web framework for building content-driven websites
